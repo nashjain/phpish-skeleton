@@ -15,8 +15,11 @@ This is a skeleton project which helps you boot-strap a web app easily.
 To create a web app called demo in a directory Sites, do the following:
 
 $ cd Sites/
+
 $ curl https://raw.githubusercontent.com/nashjain/phpish-skeleton/master/installer.sh
+
 $ chmod +x installer.sh
+
 $ ./installer.sh create demo
 
 This would give you the skeleton web app. After this:
