@@ -6,6 +6,7 @@ Phpish is a non-OO, set of micro-libs for creating simple PHP web apps.
 It requires/uses:
 
 * PHP (>=5.3.0)
+* Apache
 * MySQL
 * Composer
 * Git
@@ -21,6 +22,8 @@ $ curl https://raw.githubusercontent.com/nashjain/phpish-skeleton/master/install
 $ chmod +x phpish
 
 $ ./phpish create demo
+
+If the demo folder is in the WebRoot folder, then you should be able to visit http://localhost/demo/hello/Naresh and see a hello page.
 
 This would give you the skeleton web app. After this:
 
