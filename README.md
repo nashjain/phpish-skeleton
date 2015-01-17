@@ -23,7 +23,7 @@ $ chmod +x phpish
 
 $ ./phpish create demo
 
-If the demo folder is in the WebRoot folder, then you should be able to visit [http://localhost/demo/hello/Naresh|http://localhost/demo/hello/Naresh] and see a hello page.
+If the demo folder is in the WebRoot folder, then you should be able to visit [http://localhost/demo/hello/Naresh](http://localhost/demo/hello/Naresh) and see a hello page.
 
 This would give you the skeleton web app. After this:
 
