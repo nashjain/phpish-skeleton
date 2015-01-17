@@ -10,7 +10,7 @@ It requires/uses:
 * Composer
 * Git
 
-This is a skeleton project which helps you boot-strap a web app easily.
+This is a skeleton project, which helps you bootstrap a web app easily.
 
 To create a web app called demo in a directory Sites, do the following:
 
