@@ -21,7 +21,7 @@ $ curl https://raw.githubusercontent.com/nashjain/phpish-skeleton/master/install
 
 $ chmod +x phpish
 
-$ ./phpish create demo
+$ ./phpish init demo
 
 If the demo folder is in the WebRoot folder, then you should be able to visit [http://localhost/demo/hello/Naresh](http://localhost/demo/hello/Naresh) and see a hello page.
 
