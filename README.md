@@ -16,11 +16,11 @@ To create a web app called demo in a directory Sites, do the following:
 
 $ cd Sites/
 
-$ curl https://raw.githubusercontent.com/nashjain/phpish-skeleton/master/installer.sh
+$ curl https://raw.githubusercontent.com/nashjain/phpish-skeleton/master/installer.sh > phpish
 
-$ chmod +x installer.sh
+$ chmod +x phpish
 
-$ ./installer.sh create demo
+$ ./phpish create demo
 
 This would give you the skeleton web app. After this:
 
