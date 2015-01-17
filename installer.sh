@@ -12,7 +12,7 @@ if [ "$1" == "create" ]; then
         git clone git@github.com:nashjain/phpish-skeleton.git "./$2"
         cd ./$2
         rm installer.sh
-        rm -f .git
+        rm -rf .git
 
         # run composer
         php composer.phar self-update
