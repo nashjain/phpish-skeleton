@@ -9,6 +9,7 @@ if [ "$1" == "init" ]; then
         cd ./$2
         rm installer.sh
         rm -rf .git
+        rm README.md
 
         # run composer
         php composer.phar self-update
